@@ -4,7 +4,7 @@ Allows you to disable outgoing messages to a specific user
 (replaces the chatbar)
 
 # Why?
-I annoy my friends a lot
+I annoy my friends a lot  
 This fixes that issue
 
 # Usage
