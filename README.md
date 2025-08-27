@@ -8,7 +8,8 @@ I annoy my friends a lot
 This fixes that issue
 
 # Usage
-https://docs.vencord.dev/installing/custom-plugins/
+https://docs.vencord.dev/installing/custom-plugins/  
+Alternatively, check out [this message](https://discord.com/channels/1015060230222131221/1257038407503446176/1257038407503446176) on their discord.
 
 # Support
 nope :3
